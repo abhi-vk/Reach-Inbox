@@ -16,7 +16,7 @@ To install and run this project on your local machine, follow these steps:
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/punyakrit/Reachinbox-Assignment.git
+   git clone https://github.com/abhi-vk/Reach-Inbox.git
 
    cd into project
 
